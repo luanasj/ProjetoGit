@@ -1,0 +1,1 @@
+git add .: the dot means you-re sending all of the files available on folder, if you're sending only an specified file you must write it's name
